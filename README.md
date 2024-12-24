@@ -25,7 +25,7 @@ TURINYS:
 
 ## NAUDOJIMO INSTRUKCIJA
 
-
+Programa yra sukurta taip, kad būtų lengva ja naudotis – tereikia vadovautis ekrane matomomis instrukcijomis ir viskas bus gerai. Taip pat suklydę nesijaudinkite, nes programoje yra klaidų „medžiojimas“.
 
 ## AUTORIUS
 
